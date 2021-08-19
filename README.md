@@ -1,2 +1,2 @@
-# amazon-bestsellers
-Predicting user ratings for different books
+# Creating a Simple Recommender System
+Predicting user ratings for different books.
